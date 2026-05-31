@@ -20,6 +20,13 @@ The application predicts whether a patient has a **High Risk** or **Low Risk** o
 
 ---
 
+## Live Demo
+
+🔗 Streamlit App:
+https://heart-disease-prediction-7my49pjrzqem9thf3ifxl.streamlit.app
+
+---
+
 # 🛠️ Technologies Used
 
 - Python
