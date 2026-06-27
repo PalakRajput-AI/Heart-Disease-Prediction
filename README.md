@@ -67,7 +67,8 @@ The Power BI dashboard was created using SQL-based heart disease data analysis.
 - Exercise Angina Impact
 - ST Slope Analysis
 - Cholesterol Insights
-- 
+- <img width="1171" height="671" alt="Screenshot 2026-06-27 133402" src="https://github.com/user-attachments/assets/cd0f9502-56f7-416b-a9cc-77c3d9b491f0" />
+
 ---
 
 # 🗄️ SQL Analysis
