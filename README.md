@@ -17,7 +17,6 @@ The main goal of this project is to:
 - Deploy the model using Streamlit
 
 The application predicts whether a patient has a **High Risk** or **Low Risk** of heart disease based on medical details.
-
 ---
 
 ## Live Demo
